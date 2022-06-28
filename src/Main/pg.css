@@ -1,0 +1,7 @@
+.drager:hover {
+  cursor: grab;
+}
+
+.drager:active {
+  cursor: grabbing;
+}
